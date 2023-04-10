@@ -1,0 +1,3 @@
+This application is used to lookup programming related prompts while in terminal. 
+Using it opens new browser window with given prompt put in google search engine.
+It also includes site filter set to 3 most popular sites.

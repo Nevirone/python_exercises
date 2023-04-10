@@ -1,0 +1,2 @@
+This application is used to simplify file names to one template
+It includes generation of example files in generate.py file
